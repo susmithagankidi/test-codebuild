@@ -7,3 +7,5 @@ phases:
   build:
     commands:
       - env 
+      - print BranchName
+      - print Release_ID
