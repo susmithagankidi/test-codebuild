@@ -7,5 +7,5 @@ phases:
   build:
     commands:
       - env 
-      - print BranchName
-      - print Release_ID
+      - echo $BranchName
+      - echo $Release_ID
