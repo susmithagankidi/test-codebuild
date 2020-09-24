@@ -9,4 +9,4 @@ phases:
       - env 
       - echo $BranchName
       - echo $Release_ID
-      - ls 
+      - ls -la
